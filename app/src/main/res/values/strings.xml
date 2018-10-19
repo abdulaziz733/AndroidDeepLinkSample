@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Deep Linking Trial</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="claim_your_promo_code">Claim Your Promo Code</string>
+    <string name="get_promo">Get Promo</string>
+</resources>
